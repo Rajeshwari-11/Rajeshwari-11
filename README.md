@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm 👱‍♀️Rajeshwari!</h1>
+<h1 align="center">Hey 👋, I'm Rajeshwari!</h1>
 <h3 align="center">A Student Learning Some Software Stuff....</h3>
 
 - 🌱 I’m currently learning **java and Artificial Intelligence**
